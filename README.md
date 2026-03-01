@@ -1,4 +1,4 @@
-# 📊 Machine Learning — Score de Crédito
+# 📊 Machine Learning - Score de Crédito
 
 Este projeto tem como objetivo prever o **score de crédito** de clientes usando técnicas de *Machine Learning*.  
 A aplicação simula o cenário de uma empresa que deseja analisar o perfil dos clientes e estimar sua pontuação de crédito de forma automática e eficiente.
